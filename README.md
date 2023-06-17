@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="erayglr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/eray-güler-097273244/]
-[<img align="left" alt="erayglr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/_eray___/]
+[<img align="left" alt="erayglr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools:
 
