@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about Java,Python,HTML5%CSS
+- 🥅 2023 Goals: Learn more about Java,Python,HTML5&CSS
 - ⚡ Fun fact: I love to watch tv series and play games
 
 ### Connect with me:
