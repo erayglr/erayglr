@@ -25,5 +25,5 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/_eray____
+[instagram]: https://instagram.com/_eray___
 [linkedin]: https://www.linkedin.com/in/eray-güler-097273244/
