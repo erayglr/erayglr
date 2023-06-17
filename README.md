@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/eray-güler-097273244/)
+[(./img/linkedin-dark.svg)](https://www.linkedin.com/in/eray-güler-097273244/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/_eray___/)
+[(./img/instagram-dark.svg)](https://www.instagram.com/_eray___/)
 
 ### Languages and Tools:
 
