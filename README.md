@@ -9,9 +9,7 @@
 
 ### Connect with me:
 
-[(./img/linkedin-dark.svg)](https://www.linkedin.com/in/eray-güler-097273244/)
-&nbsp;&nbsp;
-[(./img/instagram-dark.svg)](https://www.instagram.com/_eray___/)
+[<img align="left" alt="erayglr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/eray-güler-097273244/]
 
 ### Languages and Tools:
 
@@ -24,5 +22,5 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/_eray____
+[linkedin]: https://www.linkedin.com/in/eray-güler-097273244/
