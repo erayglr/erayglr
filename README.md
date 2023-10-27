@@ -1,29 +1,25 @@
-# Hi there, I'm Eray 👋 
+<h1 align="center">Hi 👋, I'm Eray</h1>
+<h3 align="center">A passionate developer from Turkey</h3>
 
-## I'm a Developer !!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erayglr&label=Profile%20views&color=0e75b6&style=flat" alt="erayglr" /> </p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about Java,Python,HTML5&CSS3
-- ⚡ Fun fact: I love to watch tv series and play games
+- 🌱 I’m currently learning **Python and Java**
 
-### Connect with me:
+- 📫 How to reach me **erayguler_2002_@hotmail.com**
 
-[<img align="left" alt="erayglr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="erayglr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- ⚡ Fun fact **I love to watch tv series and play games**
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/eray-güler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray-güler" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@erayguler_2002_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@erayguler_2002_" height="30" width="40" /></a>
+</p>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt=JAVA" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erayglr&show_icons=true&locale=en&layout=compact" alt="erayglr" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erayglr&show_icons=true&locale=en" alt="erayglr" /></p>
 
-<br />
-<br />
-
-[instagram]: https://instagram.com/_eray___
-[linkedin]: https://www.linkedin.com/in/eray-güler-097273244/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erayglr&" alt="erayglr" /></p>
