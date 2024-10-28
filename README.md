@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erayglr&label=Profile%20views&color=0e75b6&style=flat" alt="erayglr" /> </p>
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **erayguler_2002_@hotmail.com**
-
-- ⚡ Fun fact **I love to watch tv series and play games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
